@@ -22,6 +22,7 @@ import sun.security.x509.AlgorithmId;
  */
 public class Control {
     //private int matrix;
+    private vietnguyen;
     private PuzzleGame pz;
     private int size = 3;
     private JButton[][] matrix;
